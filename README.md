@@ -1,4 +1,4 @@
-# Desafio de Projeto - Recriando a página inicial do  ![](C:\Instagram\img\instagram-logo.png)
+# Desafio de Projeto - Recriando a página inicial do Instagram.
 
 Repositório da aula de Flexbox, interface de login do Instagram! 
 
